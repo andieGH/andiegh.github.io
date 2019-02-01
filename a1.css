@@ -173,7 +173,7 @@ table {
 }
 
 table thead {
-  font-family: 'Cookie', sans-serif;
+  font-family: 'Handlee', sans-serif;
 }
 
 
@@ -225,7 +225,7 @@ table th, table td {
   
   table td::before {
     margin-left: 20px;
-    font-family: 'Cookie', sans-serif;
+    font-family: 'Handlee', sans-serif;
     content: attr(data-label);
     float: left;
   }
