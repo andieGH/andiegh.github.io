@@ -52,7 +52,7 @@ body, html {
   padding: 10px 90px;
   display: flex;
   justify-content: space-between;
-  font-family: 'Merienda One', sans-serif;
+  font-family: 'Merienda One', cursive;
 }
 
 
@@ -174,7 +174,7 @@ table {
 }
 
 table thead {
-  font-family: 'Merienda One', sans-serif;
+  font-family: 'Merienda One', cursive;
 }
 
 
@@ -226,7 +226,7 @@ table th, table td {
   
   table td::before {
     margin-left: 20px;
-    font-family: 'Merienda One', sans-serif;
+    font-family: 'Merienda One', cursive;
     content: attr(data-label);
     float: left;
   }
