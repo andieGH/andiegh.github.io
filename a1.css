@@ -209,7 +209,9 @@ table th, table td {
 }
 
 
-/* Responsive elements.  When the screen is a certain size where things get wonky, resize them */
+/* Responsive elements.  When the screen is a certain size where things get wonky, resize them 
+I followed this tutorial in order to create the responsive affect on the table, but I also customized it to be my own, this just showed me how it was possible
+*/
 @media screen and (max-width: 650px) {
   /* Reorient table so that the header rows move to the side */
   table thead {
