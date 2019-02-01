@@ -173,7 +173,7 @@ table {
 }
 
 table thead {
-  font-family: 'Merienda One', sans-serif;
+  font-family: 'Merienda', sans-serif;
 }
 
 
@@ -225,7 +225,7 @@ table th, table td {
   
   table td::before {
     margin-left: 20px;
-    font-family: 'Merienda One', sans-serif;
+    font-family: 'Merienda', sans-serif;
     content: attr(data-label);
     float: left;
   }
