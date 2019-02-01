@@ -36,7 +36,7 @@ body, html {
   color: black;
   text-decoration: none;
   font-size: 18px; 
-  font-family: 'Petit Formal Script', cursive;
+  font-family: 'Merienda One', cursive;
 }
 
 /* Style the active/current link*/
@@ -52,7 +52,7 @@ body, html {
   padding: 10px 90px;
   display: flex;
   justify-content: space-between;
-  font-family: 'Cookie', sans-serif;
+  font-family: 'Merienda One', sans-serif;
 }
 
 
@@ -174,7 +174,7 @@ table {
 }
 
 table thead {
-  font-family: 'Handlee', sans-serif;
+  font-family: 'Merienda One', sans-serif;
 }
 
 
@@ -226,7 +226,7 @@ table th, table td {
   
   table td::before {
     margin-left: 20px;
-    font-family: 'Handlee', sans-serif;
+    font-family: 'Merienda One', sans-serif;
     content: attr(data-label);
     float: left;
   }
